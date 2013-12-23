@@ -4,12 +4,15 @@ mdserv is a micro http server built on NodeJS that preprocesses static markdown 
 
 # Setup
 Install the necessary dependencies
+
     > npm install
 
 Build mdserv
+
     > grunt build
 
 # Usage
+
     > node mdserv <path> <port> <host>
 
 | Option | Description | Default | Required  |
