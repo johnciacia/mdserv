@@ -13,7 +13,7 @@ Build mdserv
     > node mdserv <path> <port> <host>
 
 | Option | Description | Required  |
-| ------------- | ------------- | -----:|
+| ------------- | ------------- |:-----:|
 | path      | The full path to the directory that will serve the markdown files. The path should not have a trailing slash. Note: mdserv will need permission to read files in this directory. | no |
 | port      | Any numeric port. If you are binding to a port smaller than 1024 you will need to run the mdserv as with elevated privileges. |   no |
 | host | This can be a hostname or an IP address |    no |
