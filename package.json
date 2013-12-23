@@ -1,0 +1,9 @@
+{
+  "name": "mdserv",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-coffee": "latest",
+    "marked": "latest"
+  }
+}
