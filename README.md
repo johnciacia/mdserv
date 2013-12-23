@@ -19,6 +19,7 @@ Build mdserv
 | host | This can be a hostname or an IP address |    no |
 
 The path, port, and host are optional. By default mdserv will serve files from mdserv's working directory and bind to `localhost` on port `8888`
+
     > node mdserv /var/www 8080 127.0.0.1
 
 # Release History
